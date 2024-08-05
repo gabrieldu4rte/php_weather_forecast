@@ -1,2 +1,2 @@
 <h1>Weather Forecast</h1>
-<p>Esse projeto utiliza a Weather API, para a criação de um painel de previsão do tempo, de acordo com a cidade selecionada. Ao selecionar a cidade de uma lista de cidades pré definida, a aplicação trás ao usuário o tempo atual, com dados como a temperatura atual em graus Celsius, e a previsão do tempo para os próximos 5 dias, já contando com o dia atual.</p>
+<p>This project uses the Weather API to create a weather forecast panel, according to the selected city. When selecting the city from a pre-defined list of cities, the application provides the user with the current weather, with data such as the current temperature in degrees Celsius, and the weather forecast for the next 5 days, including the current day.</p>
